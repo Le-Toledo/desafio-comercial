@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DesafioComercial.Tests/DesafioComercial.Tests.csproj" />
+  <Project Path="DesafioComercial/DesafioComercial.csproj" />
+</Solution>
